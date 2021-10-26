@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\netcoreapp3.1\WinFormsApp6.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\netcoreapp3.1\WinFormsApp6.Form1.resources
+C:\Users\User\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\netcoreapp3.1\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\netcoreapp3.1\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\netcoreapp3.1\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\netcoreapp3.1\WinFormsApp6.AssemblyInfo.cs
+C:\Users\User\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\netcoreapp3.1\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\netcoreapp3.1\WinFormsApp6.exe
+C:\Users\User\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\netcoreapp3.1\WinFormsApp6.deps.json
+C:\Users\User\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\netcoreapp3.1\WinFormsApp6.runtimeconfig.json
+C:\Users\User\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\netcoreapp3.1\WinFormsApp6.runtimeconfig.dev.json
+C:\Users\User\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\netcoreapp3.1\WinFormsApp6.dll
+C:\Users\User\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\netcoreapp3.1\WinFormsApp6.pdb
+C:\Users\User\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\netcoreapp3.1\WinFormsApp6.dll
+C:\Users\User\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\netcoreapp3.1\WinFormsApp6.pdb
+C:\Users\User\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\netcoreapp3.1\WinFormsApp6.genruntimeconfig.cache
